@@ -1,0 +1,276 @@
+2022-10-27 02:56:44,675 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-27 02:56:48,474 [main] INFO NOP Comm Login Module - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 02:56:49,607 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-27 02:56:49,741 [main] INFO NOP Comm Login Module - enter value into userName field: admin@yourstore.com
+2022-10-27 02:56:49,877 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-27 02:56:49,994 [main] INFO NOP Comm Login Module - enter value into password field: admin
+2022-10-27 02:56:50,088 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-27 02:56:50,177 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-27 02:56:53,989 [main] INFO NOP Comm Login Module - Validation of Application title
+2022-10-27 02:56:54,029 [main] INFO NOP Comm Login Module - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 02:56:54,042 [main] INFO NOP Comm Login Module - Click on Logout button
+2022-10-27 02:57:08,383 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-10-27 03:02:48,162 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-27 03:02:51,324 [main] INFO NOP Comm Login Module - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 03:02:52,470 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-27 03:02:52,582 [main] INFO NOP Comm Login Module - enter value into userName field: admin@yourstore.com
+2022-10-27 03:02:52,732 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-27 03:02:52,824 [main] INFO NOP Comm Login Module - enter value into password field: admin
+2022-10-27 03:02:52,923 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-27 03:02:53,007 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-27 03:02:55,568 [main] INFO NOP Comm Login Module - Validation of Application title
+2022-10-27 03:02:55,575 [main] INFO NOP Comm Login Module - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 03:02:55,586 [main] INFO NOP Comm Login Module - Click on Logout button
+2022-10-27 03:03:12,182 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-10-27 03:04:57,736 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-27 03:05:01,185 [main] INFO NOP Comm Login Module - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 03:05:02,303 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-27 03:05:02,406 [main] INFO NOP Comm Login Module - enter value into userName field: admin@yourstore.com
+2022-10-27 03:05:02,537 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-27 03:05:02,650 [main] INFO NOP Comm Login Module - enter value into password field: admin
+2022-10-27 03:05:02,741 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-27 03:05:02,842 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-27 03:05:06,654 [main] INFO NOP Comm Login Module - Validation of Application title
+2022-10-27 03:05:06,688 [main] INFO NOP Comm Login Module - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 03:05:06,702 [main] INFO NOP Comm Login Module - Click on Logout button
+2022-10-27 03:05:22,703 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-10-27 03:38:26,957 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-27 03:38:30,089 [main] INFO NOP Comm Login Module - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 03:38:31,234 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-27 03:38:31,352 [main] INFO NOP Comm Login Module - enter value into userName field: admin@yourstore.com
+2022-10-27 03:38:31,495 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-27 03:38:31,608 [main] INFO NOP Comm Login Module - enter value into password field: admin
+2022-10-27 03:38:31,696 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-27 03:38:31,800 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-27 03:38:35,072 [main] INFO NOP Comm Login Module - Validation of Application title
+2022-10-27 03:38:35,086 [main] INFO NOP Comm Login Module - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 03:38:35,097 [main] INFO NOP Comm Login Module - Click on Logout button
+2022-10-27 03:38:59,249 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-10-27 16:33:20,999 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-27 16:33:33,112 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-27 16:33:33,201 [main] INFO NOP Comm Login Module - enter value into userName field: 
+2022-10-27 16:33:33,323 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-27 16:33:33,416 [main] INFO NOP Comm Login Module - enter value into password field: 
+2022-10-27 16:33:33,514 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-27 16:33:33,632 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-27 16:33:44,014 [main] INFO NOP Comm Login Module - Validation of Application title
+2022-10-27 16:33:44,032 [main] INFO NOP Comm Login Module - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 16:33:44,043 [main] INFO NOP Comm Login Module - Click on Logout button
+2022-10-27 16:34:02,778 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-10-27 23:13:48,921 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-27 23:13:53,173 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-27 23:13:53,266 [main] INFO NOP Comm Login Module - enter value into userName field: 
+2022-10-27 23:13:53,371 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-27 23:13:53,447 [main] INFO NOP Comm Login Module - enter value into password field: 
+2022-10-27 23:13:53,528 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-27 23:13:53,598 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-27 23:13:55,998 [main] INFO NOP Comm Login Module - Validation of Application title
+2022-10-27 23:13:56,023 [main] INFO NOP Comm Login Module - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 23:13:56,040 [main] INFO NOP Comm Login Module - Click on Logout button
+2022-10-27 23:14:18,435 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-10-27 23:15:18,138 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-27 23:15:22,955 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-27 23:15:23,052 [main] INFO NOP Comm Login Module - enter value into userName field: 
+2022-10-27 23:15:23,151 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-27 23:15:23,244 [main] INFO NOP Comm Login Module - enter value into password field: 
+2022-10-27 23:15:23,322 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-27 23:15:23,396 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-27 23:15:26,337 [main] INFO NOP Comm Login Module - Validation of Application title
+2022-10-27 23:15:26,349 [main] INFO NOP Comm Login Module - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 23:15:26,371 [main] INFO NOP Comm Login Module - Click on Logout button
+2022-10-27 23:15:32,937 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-10-28 02:03:20,717 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-28 02:03:26,106 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-28 02:03:26,204 [main] INFO NOP Comm Login Module - enter value into userName field: 
+2022-10-28 02:03:26,345 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-28 02:03:26,431 [main] INFO NOP Comm Login Module - enter value into password field: 
+2022-10-28 02:03:26,513 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-28 02:03:26,582 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-28 02:03:29,840 [main] INFO NOP Comm Login Module - Validation of Application title
+2022-10-28 02:03:29,891 [main] INFO NOP Comm Login Module - Actual Title: Dashboard / nopCommerce administration
+2022-10-28 02:03:29,916 [main] INFO NOP Comm Login Module - Click on Logout button
+2022-10-28 02:03:37,047 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-10-28 02:51:58,007 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-28 02:52:04,420 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-28 02:52:04,511 [main] INFO NOP Comm Login Module - enter value into userName field: prem@yahoomail.com
+2022-10-28 02:52:06,654 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-28 02:52:06,763 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-10-28 02:52:08,858 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-28 02:52:10,967 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-28 02:52:13,966 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-10-28 02:52:15,990 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-28 02:52:16,063 [main] INFO NOP Comm Login Module - enter value into userName field: Rupam@google.com
+2022-10-28 02:52:18,186 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-28 02:52:18,264 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-10-28 02:52:20,374 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-28 02:52:22,453 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-28 02:52:24,857 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-10-28 02:52:26,889 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-28 02:52:26,962 [main] INFO NOP Comm Login Module - enter value into userName field: shivani@gmail.com
+2022-10-28 02:52:29,076 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-28 02:52:29,159 [main] INFO NOP Comm Login Module - enter value into password field: password@123
+2022-10-28 02:52:31,265 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-28 02:52:33,344 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-28 02:52:35,749 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-10-28 02:52:40,957 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-10-28 02:55:18,440 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-28 02:55:23,864 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-28 02:55:23,948 [main] INFO NOP Comm Login Module - enter value into userName field: prem@yahoomail.com
+2022-10-28 02:55:26,071 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-28 02:55:26,143 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-10-28 02:55:28,222 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-28 02:55:30,300 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-28 02:55:33,238 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-10-28 02:55:35,257 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-28 02:55:35,402 [main] INFO NOP Comm Login Module - enter value into userName field: Rupam@google.com
+2022-10-28 02:55:37,659 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-28 02:55:37,734 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-10-28 02:55:39,846 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-28 02:55:41,926 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-28 02:55:44,347 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-10-28 02:55:46,363 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-28 02:55:46,430 [main] INFO NOP Comm Login Module - enter value into userName field: shivani@gmail.com
+2022-10-28 02:55:48,536 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-28 02:55:48,608 [main] INFO NOP Comm Login Module - enter value into password field: password@123
+2022-10-28 02:55:50,690 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-28 02:55:52,770 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-28 02:55:55,208 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-10-28 02:56:00,433 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-10-28 03:10:49,400 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-10-28 03:10:56,370 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-28 03:10:56,461 [main] INFO NOP Comm Login Module - enter value into userName field: prem@yahoomail.com
+2022-10-28 03:10:58,576 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-28 03:10:58,672 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-10-28 03:11:00,774 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-28 03:11:02,870 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-28 03:11:05,854 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-10-28 03:11:07,879 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-28 03:11:07,962 [main] INFO NOP Comm Login Module - enter value into userName field: Rupam@google.com
+2022-10-28 03:11:10,089 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-28 03:11:10,166 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-10-28 03:11:12,275 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-28 03:11:14,354 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-28 03:11:16,822 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-10-28 03:11:18,846 [main] INFO NOP Comm Login Module - clear userName field.
+2022-10-28 03:11:18,916 [main] INFO NOP Comm Login Module - enter value into userName field: shivani@gmail.com
+2022-10-28 03:11:21,025 [main] INFO NOP Comm Login Module - clear password field.
+2022-10-28 03:11:21,101 [main] INFO NOP Comm Login Module - enter value into password field: password@123
+2022-10-28 03:11:23,198 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-10-28 03:11:25,277 [main] INFO NOP Comm Login Module - click on login Button
+2022-10-28 03:11:27,667 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-10-28 03:11:48,984 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-11-02 03:07:10,607 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-11-02 03:07:21,738 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:07:21,821 [main] INFO NOP Comm Login Module - enter value into userName field: prem@yahoomail.com
+2022-11-02 03:07:23,941 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:07:24,011 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-11-02 03:07:26,097 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:07:28,178 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:07:31,178 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:07:33,222 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:07:33,345 [main] INFO NOP Comm Login Module - enter value into userName field: Rupam@google.com
+2022-11-02 03:07:35,657 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:07:35,724 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-11-02 03:07:37,801 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:07:39,872 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:07:42,254 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:07:44,285 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:07:44,349 [main] INFO NOP Comm Login Module - enter value into userName field: shivani@gmail.com
+2022-11-02 03:07:46,447 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:07:46,520 [main] INFO NOP Comm Login Module - enter value into password field: password@123
+2022-11-02 03:07:48,597 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:07:50,673 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:07:53,066 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:08:14,411 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-11-02 03:24:28,061 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-11-02 03:24:36,473 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:24:36,604 [main] INFO NOP Comm Login Module - enter value into userName field: prem@yahoomail.com
+2022-11-02 03:24:38,718 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:24:38,804 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-11-02 03:24:40,878 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:24:42,960 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:24:45,921 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:24:47,957 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:24:48,028 [main] INFO NOP Comm Login Module - enter value into userName field: Rupam@google.com
+2022-11-02 03:24:50,123 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:24:50,194 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-11-02 03:24:52,277 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:24:54,352 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:24:56,757 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:24:58,792 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:24:58,858 [main] INFO NOP Comm Login Module - enter value into userName field: shivani@gmail.com
+2022-11-02 03:25:00,938 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:25:01,008 [main] INFO NOP Comm Login Module - enter value into password field: password@123
+2022-11-02 03:25:03,098 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:25:05,171 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:25:07,554 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:25:28,878 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-11-02 03:25:47,749 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-11-02 03:25:52,521 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:25:52,603 [main] INFO NOP Comm Login Module - enter value into userName field: prem@yahoomail.com
+2022-11-02 03:25:54,699 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:25:54,785 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-11-02 03:25:56,863 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:25:58,958 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:26:01,940 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:26:03,971 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:26:04,080 [main] INFO NOP Comm Login Module - enter value into userName field: Rupam@google.com
+2022-11-02 03:26:06,223 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:26:06,288 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-11-02 03:26:08,363 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:26:10,436 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:26:12,821 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:26:14,855 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:26:14,918 [main] INFO NOP Comm Login Module - enter value into userName field: shivani@gmail.com
+2022-11-02 03:26:17,013 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:26:17,085 [main] INFO NOP Comm Login Module - enter value into password field: password@123
+2022-11-02 03:26:19,170 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:26:21,256 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:26:23,630 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:26:44,965 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-11-02 03:44:53,087 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-11-02 03:45:00,070 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:45:00,161 [main] INFO NOP Comm Login Module - enter value into userName field: prem@yahoomail.com
+2022-11-02 03:45:02,259 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:45:02,346 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-11-02 03:45:04,436 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:45:06,532 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:45:09,510 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:45:11,550 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:45:11,616 [main] INFO NOP Comm Login Module - enter value into userName field: Rupam@google.com
+2022-11-02 03:45:13,708 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:45:13,774 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-11-02 03:45:15,863 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:45:17,947 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:45:20,351 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:45:22,383 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:45:22,446 [main] INFO NOP Comm Login Module - enter value into userName field: shivani@gmail.com
+2022-11-02 03:45:24,538 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:45:24,605 [main] INFO NOP Comm Login Module - enter value into password field: password@123
+2022-11-02 03:45:26,689 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:45:28,768 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:45:31,281 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:45:52,607 [main] INFO NOP Comm Login Module - chrome browser closed.
+2022-11-02 03:48:17,383 [main] INFO NOP Comm Login Module - launching chrome browser.
+2022-11-02 03:48:23,887 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:48:23,968 [main] INFO NOP Comm Login Module - enter value into userName field: prem@yahoomail.com
+2022-11-02 03:48:26,068 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:48:26,153 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-11-02 03:48:28,250 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:48:30,365 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:48:33,327 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:48:35,353 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:48:35,435 [main] INFO NOP Comm Login Module - enter value into userName field: Rupam@google.com
+2022-11-02 03:48:37,532 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:48:37,598 [main] INFO NOP Comm Login Module - enter value into password field: demo@123
+2022-11-02 03:48:39,678 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:48:41,756 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:48:44,265 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:48:46,296 [main] INFO NOP Comm Login Module - clear userName field.
+2022-11-02 03:48:46,357 [main] INFO NOP Comm Login Module - enter value into userName field: shivani@gmail.com
+2022-11-02 03:48:48,451 [main] INFO NOP Comm Login Module - clear password field.
+2022-11-02 03:48:48,521 [main] INFO NOP Comm Login Module - enter value into password field: password@123
+2022-11-02 03:48:50,606 [main] INFO NOP Comm Login Module - click on checkbox RememberMe.
+2022-11-02 03:48:52,684 [main] INFO NOP Comm Login Module - click on login Button
+2022-11-02 03:48:55,092 [main] INFO NOP Comm Login Module - Validation of error message for invalid user details
+2022-11-02 03:49:00,367 [main] INFO NOP Comm Login Module - chrome browser closed.
