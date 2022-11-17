@@ -121,6 +121,7 @@
                         <suiteXmlFiles>
 
                             <suiteXmlFile>testng_DataProvider.xml</suiteXmlFile>
+ 			<suiteXmlFile>testng_logExample.xml</suiteXmlFile>
 
                             <!-- <suiteXmlFile>testng_sanityTest.xml</suiteXmlFile>
 
